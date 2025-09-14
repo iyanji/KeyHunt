@@ -5,7 +5,7 @@ Alat CLI untuk memindai file JavaScript dan menemukan endpoint API (`fetch`, `ax
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/username/js-endpoint-scanner.git
-cd js-endpoint-scanner
+git clone https://github.com/iyanji/KeyHunt.git
+cd KeyHunt
 npm install
 npm link

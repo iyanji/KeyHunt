@@ -1,0 +1,15 @@
+{
+  "name": "js-endpoint-scanner",
+  "version": "1.0.0",
+  "description": "Tool CLI untuk memindai file JavaScript dan menemukan endpoint API (fetch, axios, makeAPICall, dll)",
+  "main": "index.js",
+  "bin": {
+    "scan-endpoints": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
